@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "lootable-npcs",
+  "version": "1.0.0",
+  "description": "Bundle for having lootable NPCs",
+  "license": "MIT",
+  "dependencies": {
+    "rando-js": "^0.2.0"
+  }
+}

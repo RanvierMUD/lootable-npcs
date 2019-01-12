@@ -15,7 +15,7 @@ npm run install-bundle https://github.com/RanvierMUD/lootable-npcs
 ## Configuration
 
 Next you need to configure how the loot pools are loaded. The easiest is YAML. In `ranvier.json` add the following under
-`entitySources`
+`entityLoaders`
 
 ```
 "loot-pools": {
